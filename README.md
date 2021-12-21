@@ -115,16 +115,13 @@ discuss the issue a little, before planning it.
 
 ### Develop
 
-<!-- TODO: Develop
+Providing code to this repository is pretty straight forward. Open an issue,
+so we can discuss the bug/feature and start working on it afterwards. You just
+need to open the pull request afterwards and that's it.
 
-This section describes how one can start to help developing the code.
-
-How to setup the development environment?
-Are there special requirements?
-Do you suggest / recommend something for developers?
-
-Optional: Use and link a docs/DEVELOP.md
--->
+It is also strongly recommended to read the
+[Contribution Guideline](https://github.com/whiletruedoio/.github/blob/main/docs/CONTRIBUTING.md)
+beforehand.
 
 ### Changelog
 
