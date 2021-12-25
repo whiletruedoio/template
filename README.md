@@ -3,8 +3,7 @@ reference: https://www.makeareadme.com/
 reference: https://commonmark.org/
 -->
 
-<!--
-TODO: Intro
+<!-- TODO: Intro
 
 Thank you a lot for starting a new repository.
 
@@ -25,6 +24,17 @@ with some useful text.
 Before releasing something, we also recommend to get in touch with the project
 owners for a review of your code and documentation.
 -->
+
+<!-- TODO: Shields
+
+Please adapt the below shields to your needs and liking.
+-->
+
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/REPO_NAME?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
+[![Docker Image Version](https://img.shields.io/docker/v/whiletruedoio/REPO_NAME?logo=Docker&label=Release&sort=semver)](https://hub.docker.com/r/whiletruedoio/REPO_NAME)
+[![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/pulls)
+[![GitHub license](https://img.shields.io/github/license/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/blob/main/LICENSE)
 
 # REPO_NAME
 
