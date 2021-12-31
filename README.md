@@ -110,9 +110,7 @@ Optional: Use and link docs/*.md files
 ## Contribute
 
 Thank you so much for considering to contribute! We are happy, when someone is
-joining the hard work. Please have a look at the
-[Contributor Conventions](https://github.com/whiletruedoio/.github/blob/main/docs/CONTRIBUTING.md)
-beforehand.
+joining the hard work.
 
 ### Issues
 
@@ -147,13 +145,15 @@ Please update and maintain the CHANGELOG.md
 ### Test
 
 To ensure a high quality and functionality, we want to carefully test our
-software. 
+software.
 
 <!-- TODO: Test
 
 Add your guideline, how to test.
 How to execute the tests locally?
 What is automatically done?
+
+You can use the given template in .cirrus.yml and add your tests to it.
 
 Optional: Use and link a docs/TEST.md
 Optional: Provide additional test scripts and helpers in tests/
