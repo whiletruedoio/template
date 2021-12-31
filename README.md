@@ -30,6 +30,7 @@ owners for a review of your code and documentation.
 Please adapt the below shields to your needs and liking.
 -->
 
+[![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/whiletruedoio/REPO_NAME?logo=Cirrus-ci)](https://cirrus-ci.com/github/whiletruedoio/REPO_NAME)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/REPO_NAME?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
 [![Docker Image Version](https://img.shields.io/docker/v/whiletruedoio/REPO_NAME?logo=Docker&label=Release&sort=semver)](https://hub.docker.com/r/whiletruedoio/REPO_NAME)
 [![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/issues)
