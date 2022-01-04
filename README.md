@@ -146,7 +146,8 @@ Please update and maintain the CHANGELOG.md
 ### Test
 
 To ensure a high quality and functionality, we want to carefully test our
-software.
+software. The provided code is automatically tested as described in the
+[.cirrus.yml](.cirrus.yml).
 
 <!-- TODO: Test
 
