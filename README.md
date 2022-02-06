@@ -31,7 +31,8 @@ Please adapt the below shields to your needs and liking.
 -->
 
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/whiletruedoio/REPO_NAME?logo=Cirrus-ci)](https://cirrus-ci.com/github/whiletruedoio/REPO_NAME)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/whiletruedoio/REPO_NAME?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
+[![CodeFactor](https://www.codefactor.io/repository/github/whiletruedoio/container-template/badge)](https://www.codefactor.io/repository/github/whiletruedoio/REPO_NAME)
+[![GitHub Tag (latest SemVer)](https://img.shields.io/github/v/tag/whiletruedoio/container-template?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
 [![Docker Image Version](https://img.shields.io/docker/v/whiletruedoio/REPO_NAME?logo=Docker&label=Release&sort=semver)](https://hub.docker.com/r/whiletruedoio/REPO_NAME)
 [![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/pulls)
