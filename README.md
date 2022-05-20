@@ -31,8 +31,8 @@ Please adapt the below shields to your needs and liking.
 -->
 
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/whiletruedoio/REPO_NAME?logo=Cirrus-ci)](https://cirrus-ci.com/github/whiletruedoio/REPO_NAME)
-[![CodeFactor](https://www.codefactor.io/repository/github/whiletruedoio/container-template/badge)](https://www.codefactor.io/repository/github/whiletruedoio/REPO_NAME)
-[![GitHub Tag (latest SemVer)](https://img.shields.io/github/v/tag/whiletruedoio/container-template?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
+[![CodeFactor](https://www.codefactor.io/repository/github/whiletruedoio/REPO_NAME/badge)](https://www.codefactor.io/repository/github/whiletruedoio/REPO_NAME)
+[![GitHub Tag (latest SemVer)](https://img.shields.io/github/v/tag/whiletruedoio/REPO_NAME?logo=GitHub&label=Release&sort=semver)](https://github.com/whiletruedoio/REPO_NAME/releases)
 [![Docker Image Version](https://img.shields.io/docker/v/whiletruedoio/REPO_NAME?logo=Docker&label=Release&sort=semver)](https://hub.docker.com/r/whiletruedoio/REPO_NAME)
 [![GitHub issues](https://img.shields.io/github/issues/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whiletruedoio/REPO_NAME)](https://github.com/whiletruedoio/REPO_NAME/pulls)
@@ -182,5 +182,5 @@ beforehand.
 - Site: <https://while-true-do.io>
 - Blog: <https://blog.while-true-do.io>
 - Code: <https://github.com/whiletruedoio>
-- Chat: [libera.chat #whiletruedoio](https://web.libera.chat/gamja/#whiletruedo)
+- Chat: [Matrix](https://matrix.to/#/#whiletruedoio-community:matrix.org)
 - Mail: [hello@while-true-do.io](mailto:hello@while-true-do.io)
